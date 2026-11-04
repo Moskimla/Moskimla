@@ -3,7 +3,7 @@
 # Hi there, I'm Mohamed Sawyer 👋
 
 ### **Principal Solutions Architect · Sovereign AI Systems Engineer · Founder**
-**BSI Certified ISO/IEC 42001 Lead Practitioner (World's First Cohort)**
+**BSI Certified ISO/IEC 42001 Lead Practitioner **
 
 [![Website](https://img.shields.io/badge/Portfolio-moski.co.uk%2Fbio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moski.ai/bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Sawyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsawyer)
