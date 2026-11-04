@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohamed Allie Sawyer 👋
+# Hi there, I'm Mohamed Sawyer 👋
 
 ### **Principal Solutions Architect · Sovereign AI Systems Engineer · Founder**
 **BSI Certified ISO/IEC 42001 Lead Practitioner (World's First Cohort)**
