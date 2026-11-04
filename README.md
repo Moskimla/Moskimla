@@ -5,7 +5,7 @@
 ### **Principal Solutions Architect · Sovereign AI Systems Engineer · Founder**
 **BSI Certified ISO/IEC 42001 Lead Practitioner (World's First Cohort)**
 
-[![Website](https://img.shields.io/badge/Portfolio-moski.co.uk%2Fbio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moski.co.uk/bio)
+[![Website](https://img.shields.io/badge/Portfolio-moski.co.uk%2Fbio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moski.ai/bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Sawyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsawyer)
 [![Email](https://img.shields.io/badge/Inquiries-contact%40moski.ai-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@moski.ai)
 [![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-Certified_Practitioner-10B981?style=for-the-badge&logo=shield&logoColor=white)](https://moski.co.uk/bio)
